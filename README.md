@@ -1,2 +1,2 @@
-# ID-Who-s-that-pokemon
+# Assignment2-Whos-that-pokemon
 who's that pokemon vscode
