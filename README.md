@@ -7,6 +7,7 @@ In the game, the player will see a shadow of a pokemon and has to guess which po
 
 
 There will be 2 gamemodes, both gamemodes have time limits
+
 Gamemode1(Quickguess): The game but players can see the clear picture of the pokemon instead of the shadow but an extremely short time to guess.
 
 Gamemode2(Shadows): The game where players can only see the shadow.
