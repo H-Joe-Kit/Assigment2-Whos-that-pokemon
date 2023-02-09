@@ -6,6 +6,10 @@ This program is using html to create a website for a game called "Who's that pok
 In the game, the player will see a shadow of a pokemon and has to guess which pokemon it is.
 
 
+#Design Process
+
+
+#Features 
 There will be 2 gamemodes, both gamemodes have time limits
 
 Gamemode1(Quickguess): The game but players can see the clear picture of the pokemon instead of the shadow but an extremely short time to guess.
@@ -28,3 +32,4 @@ Easy: Chooses a RANDOM pokemon out of a separate list of pokemon that are very w
 Normal: Chooses a RANDOM pokemon out of the whole list of pokemon, time limit per guess is 8 seconds.
 
 Hard: Chooses a RANDOM pokemon out of a separate list of pokemon that shadows look very similar, making it harder to guess, time limit per guess is  seconds.
+
